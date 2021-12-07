@@ -1,0 +1,21 @@
+.ten{
+    align-items: center;
+    display: flex;
+    flex-direction: row;  
+}
+.ten span {
+    padding: 10px ;
+}
+.doanvan{
+    text-align: justify;
+}
+h6{
+    padding: 0 5px;
+    text-align: justify;
+}
+.contro{
+    background-color: rgba(48, 65, 216, 0.4);
+}
+.post{
+    align-items: center;
+}
